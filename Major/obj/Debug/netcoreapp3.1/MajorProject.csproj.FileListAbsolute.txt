@@ -1,0 +1,11 @@
+C:\repos\MajorProjectSolution\MajorProject\bin\Debug\netcoreapp3.1\MajorProject.exe
+C:\repos\MajorProjectSolution\MajorProject\bin\Debug\netcoreapp3.1\MajorProject.deps.json
+C:\repos\MajorProjectSolution\MajorProject\bin\Debug\netcoreapp3.1\MajorProject.runtimeconfig.json
+C:\repos\MajorProjectSolution\MajorProject\bin\Debug\netcoreapp3.1\MajorProject.runtimeconfig.dev.json
+C:\repos\MajorProjectSolution\MajorProject\bin\Debug\netcoreapp3.1\MajorProject.dll
+C:\repos\MajorProjectSolution\MajorProject\bin\Debug\netcoreapp3.1\MajorProject.pdb
+C:\repos\MajorProjectSolution\MajorProject\obj\Debug\netcoreapp3.1\MajorProject.csprojAssemblyReference.cache
+C:\repos\MajorProjectSolution\MajorProject\obj\Debug\netcoreapp3.1\MajorProject.AssemblyInfoInputs.cache
+C:\repos\MajorProjectSolution\MajorProject\obj\Debug\netcoreapp3.1\MajorProject.AssemblyInfo.cs
+C:\repos\MajorProjectSolution\MajorProject\obj\Debug\netcoreapp3.1\MajorProject.dll
+C:\repos\MajorProjectSolution\MajorProject\obj\Debug\netcoreapp3.1\MajorProject.pdb
